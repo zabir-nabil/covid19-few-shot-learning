@@ -1,4 +1,4 @@
-# Covid-19 few shot learning from CT scan images
+# Covid-19 few shot learning from X-ray images
 
 
 ### Dataset
